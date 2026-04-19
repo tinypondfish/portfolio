@@ -4,29 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link rel="stylesheet" href="../style.css">
+    <script src="../global.js" type="module"></script> <!--LAB3-->
 </head>
 <body>
+    <!-- Navigation LAB 2 
     <nav>
         <ul>
             <li><a href="../index.html">Home</a></li>
-            <li><a href="index.html">Contact</a></li>
+            <li><a href="index.html" class = "current">Contact</a></li>
             <li><a href="../projects/index.html">Projects</a></li>
             <li><a href="https://github.com/tinypondfish" target="_blank">GitHub</a></li>
             <li><a href="../resume/index.html">Resume</a></li>
         </ul>
-    </nav>
-    <form action="mailto:angw923@gmail.com"
-      method="POST"
-      enctype="text/plain">
-      <label>
-        Email:
-        <input type="email" name="email" value="angw923@gmail.com">
-    </label>
-    <br><br>
+    </nav> -->
+    
+    <h1>Contact Me</h1>
 
+    <!-- <form action="mailto:angw923@gmail.com"
+        method="POST"
+        enctype="text/plain">
+
+        <label>
+            <span>Email:</span>
+            <input type="email" name="email" value="angw923@gmail.com">
+        </label>
+
+        <label>
+            <span>Subject:</span>
+            <input name="subject" value="Hello!">
+        </label>
+
+        <label>
+            <span>Message:</span>
+            <textarea name="body">Type your message here...</textarea>
+        </label>
+
+        <button>Send</button>
+
+    </form> -->  
+    <form action="mailto:angw923@gmail.com" method="GET">
     <label>
         Subject:
-        <input name="subject" value ="Hello!">
+        <input name="subject" value="Hello!">
     </label>
     <br><br>
 
@@ -36,10 +56,8 @@
     </label>
     <br><br>
 
-    <button>Send</button>
-
-</form>
-    </form> 
-    
+    <button type="submit">Send</button>
+    </form>
+        
 </body>
 </html>
