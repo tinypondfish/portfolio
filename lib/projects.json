@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Personal portfolio website built with HTML, CSS, and JavaScript."
+  },
+  {
+    "title": "Contact Form",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A contact page with a mailto form for sending messages."
+  },
+  {
+    "title": "Responsive Navigation",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A reusable navigation system styled with CSS."
+  },
+  {
+    "title": "Projects Grid",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A grid layout for displaying project cards."
+  },
+  {
+    "title": "Resume",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "An online resume page using semantic HTML."
+  },
+  {
+    "title": "Dark Mode",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A color scheme switcher using JavaScript."
+  },
+  {
+    "title": "GitHub Profile Stats",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A homepage section that fetches and displays GitHub API data."
+  },
+  {
+    "title": "Dynamic Project Rendering",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A JavaScript feature that renders project cards from JSON data."
+  },
+  {
+    "title": "Lab 1",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Initial website setup with homepage and basic HTML structure."
+  },
+  {
+    "title": "Lab 2",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "CSS styling improvements for layout, navigation, and forms."
+  },
+  {
+    "title": "Lab 3",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "JavaScript enhancements including reusable navigation and theme controls."
+  },
+  {
+    "title": "Lab 4",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A JavaScript project using JSON data and external API fetching."
+  }
+]
